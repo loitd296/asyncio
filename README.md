@@ -11,10 +11,7 @@ This project implements a web crawler to extract data from a website using both 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/web-crawler.git
-
-css
-Copy code
+git clone https://github.com/loitd296/asyncio.git
 
 2. Navigate to the project directory:
 
