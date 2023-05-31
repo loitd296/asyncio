@@ -27,9 +27,6 @@ Copy code
 
 pip install -r requirements.txt
 
-shell
-Copy code
-
 ## Usage
 
 ### Synchronous Version
@@ -38,8 +35,6 @@ Copy code
 
 python craw-web-without-asyncio.py
 
-markdown
-Copy code
 
 2. The script will extract href values from the target website and process the links.
 
@@ -48,9 +43,6 @@ Copy code
 1. Run the asyncio crawler script:
 
 python craw-web-asyncio.py
-
-markdown
-Copy code
 
 2. The script will asynchronously extract href values from the target website and process the links.
 
